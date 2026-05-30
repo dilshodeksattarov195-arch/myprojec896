@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheponnect",
+        "uuid": 8794240,
+        "checksum": "0bf1br"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
